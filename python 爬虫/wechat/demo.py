@@ -2,7 +2,7 @@ import itchat
 import re
 import io
 from os import path
-# from wordcloud import WordCloud, ImageColorGenerator
+from wordcloud import WordCloud, ImageColorGenerator
 import jieba
 import numpy as np
 from PIL import Image
